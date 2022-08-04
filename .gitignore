@@ -1,3 +1,7 @@
+# Google Login API
+*.crt
+*.key
+
 # Django #
 *.log
 *.pot
